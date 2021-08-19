@@ -1,7 +1,7 @@
 <!--**shivamsahu4u/shivamsahu4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Hi, I'm Shivam 👋🏾 👨‍💻
 
-<img src="https://raw.githubusercontent.com/Monica/Monica/master/gh-header-image-cropped.png" alt="banner that says Shivam Sahu - software engineer, content creator alongside a cartoon illustration of Shivam">
+<img src="https://raw.githubusercontent.com/sfoteini/responsive-web-design-freeCodeCamp/fb2b6eac8dfc8903983db91fbb491d134ba266e6/personal-portfolio/images/code-1.svg" alt="banner that says Shivam Sahu - software engineer, content creator alongside a cartoon illustration of Shivam">
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies
 I enjoy working with include .NET, SQL Server (JavaScript, APIS + Markup) and Angular. I've contributed to Hacktobwerfest2018 and Hacktobwerfest2019 sponsered by DigitalOcean and Twilio. <a href="https://stars.github.com
 /">GitHub Star </a> based on my involvement in the tech community. My interest in the learnings led me to launch my portfolio <a href="https://www.shivamsahu4u.github.io/">shivamsahu4u.github.io</a>
