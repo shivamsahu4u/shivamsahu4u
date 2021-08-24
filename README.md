@@ -1,5 +1,5 @@
 <!--**shivamsahu4u/shivamsahu4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# Hi, <i>I'm Shivam</i> 👋 👨‍💻
+# Hi there, <i>I'm Shivam</i> 👋 👨‍💻
 
 <p align="center">I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 I enjoy working with Some technologies include .NET, SQL Server (JavaScript, APIS + Markup) and Angular. I've contributed to Hacktoberfest2018 and Hacktoberfest2019 sponsered by DigitalOcean and Twilio. [ <a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor </a>] 
