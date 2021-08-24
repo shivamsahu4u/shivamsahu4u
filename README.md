@@ -6,7 +6,12 @@ I enjoy working with Some technologies include .NET, SQL Server (JavaScript, API
   Based on my involvement in the tech community, My interest in the learnings led me to launch my portfolio <a href="https://www.shivamsahu4u.github.io/">shivamsahu4u.github.io</a>
 </p> 
 
-<img align="right" alt="GIF" width="500" height="284" src="https://www.linkpicture.com/q/code.svg" />
+<img align="right" alt="GIF" width="500" height="354" src="https://www.linkpicture.com/q/code.svg" />
+
+- 🎨 I look forward to updating my profile 😂.
+- ✨ Contributing to open source. 
+- 🌱 My primary development weapon of choice is C# 🦀 and JavaScript sometimes. 
+- ✉️ Reach out to me on [shivamsahu4u(at)gmail(dot)com](mailto:shivamsahu4u@gmail.com) about new opportunities. I'm always happy to learn new things. 
 
 ## Find me around the web :🌎
 - Interacting with public on <a href="https://www.instagram.com/shivamsahu4u">Instagram</a> or <a href="https://www.twitter.com/shivamsahu4u">Twitter</a> 📹 ✍🏾
